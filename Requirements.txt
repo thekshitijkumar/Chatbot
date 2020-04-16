@@ -1,0 +1,5 @@
+REQUIREMENTS
+
+PYTHON 3.6
+pip install flask
+pip install aiml

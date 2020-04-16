@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+   <category>
+      <pattern>ACADEMICS</pattern>
+    <template> Academicscourse consists of Programmes (UG,PG,PhD), Academic Calendar, Syllabus.
+Website Link: http://dcrustm.ac.in
+</template>
+    </category>      
+
+	
+	<category>
+      <pattern>CSE HOD</pattern>
+      <template>Dr. Parvinder Singh is HOD of cse Deptt DCRUST</template>
+    </category>
+	
+	<category>
+      <pattern>HOD</pattern>
+      <template>Dr. Parvinder Singh is HOD of cse Deptt DCRUST</template>
+    </category>
+	
+	<category>
+      <pattern>SUPERVISOR</pattern>
+      <template>Dr Kavita Rathi</template>
+    </category>
+	
+	<category>
+      <pattern>PROJECT GUIDE</pattern>
+      <template>Dr Kavita Rathi</template>
+    </category>
+	
+	<category>
+      <pattern>PROJECT COORDINATOR</pattern>
+      <template>Dr Sukhdeep Sangwan</template>
+    </category>
+	
+	<category>
+      <pattern>FACULTY</pattern>
+      <template>Dr Sukhdeep Sangwan,    
+	    Dr Anita Singhrova,Ms Kavita Rathi,
+	  Dr Parvinder Singh,
+	  Dr Amita Malik,
+	  Ms Suman,
+	  Ms Suman Deswal,
+	  Dr Dinesh Singh,Sh Sanjeev Indora,Sh Ajmer Singh,Sh Rajvir Singh,Ms Neetu Verma,Dr Jitendra Singh
+	  </template>
+    </category>
+	
+	
+	<category>
+      <pattern> CSE FACULTY</pattern>
+      <template>Dr Sukhdeep Sangwan,    
+	    Dr Anita Singhrova,Ms Kavita Rathi,
+	  Dr Parvinder Singh,
+	  Dr Amita Malik,
+	  Ms Suman,
+	  Ms Suman Deswal,
+	  Dr Dinesh Singh,Sh Sanjeev Indora,Sh Ajmer Singh,Sh Rajvir Singh,Ms Neetu Verma,Dr Jitendra Singh
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>SYLLABUS</pattern>
+      <template>For Syllabus,Refer Here: http://dcrustm.ac.in/syllabus/revised-oop-syl/</template>
+    </category>
+	
+	<category>
+      <pattern>CSE SYLLABUS</pattern>
+      <template>For Syllabus,Refer Here: http://dcrustm.ac.in/syllabus/revised-oop-syl/</template>
+    </category>
+	
+	<category>
+      <pattern>COURSES OFFERED</pattern>
+      <template>B. Tech , M.Tech , PhD</template>
+    </category>
+
+</aiml>

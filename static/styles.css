@@ -1,0 +1,88 @@
+.overFlow{
+    overflow: auto;
+    display: flex;
+    flex-direction: column-reverse
+}
+
+body {
+    padding: 5%;
+     
+    background-image:url(img/fin1.jpg);
+    background-size:cover;   
+    background-attachment:fixed;    
+}
+
+#avatar-left{
+    width:40px;
+    height:40px;
+    position: absolute;
+    left:2%;   
+}
+
+
+h1 {
+	margin-top:-15px;
+
+	color: #80ff80;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+    text-align: center;
+
+}
+
+
+.fixed-top{
+    color:white;
+}
+
+#avatar-right{
+    width:40px;
+    height:40px;
+    position: absolute;
+    right: 2%;    
+}
+
+.list-group-item{
+   width: 35%;
+}
+
+#leftList{
+    margin-right: 30%;
+	text-align: left;
+	
+	background: #ebebeb none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #646464;
+    font-size: 18px;
+    margin: 0;
+    padding: 5px 10px 5px 12px;
+    
+}
+
+#rightList{
+    margin-left:65%;
+    float:right;
+	
+  	background: #05728f none repeat scroll 0 0;
+    border-radius: 3px;
+    font-size: 18px;
+    margin: 0;
+    color: #fff;
+    padding: 5px 10px 5px 12px;
+  
+	
+}
+
+#figRight{
+    text-align: right;
+margin-left:63%;	
+}
+figcaption{
+    color: #ffff66;
+    text-shadow: 2px 2px #ff0000;
+    font-size: 1.5em;
+}
